@@ -1,0 +1,21 @@
+# Frontend
+prueba-tecnica/node_modules
+prueba-tecnica/dist
+prueba-tecnica/.env
+*.local
+
+# Backend
+PruebaTecnica/.vs
+PruebaTecnica/**/bin
+PruebaTecnica/**/obj
+
+# Documentación
+pruebaTecnicaPowerMas.mp4
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.idea
+.vscode
+*.user
+*.suo
